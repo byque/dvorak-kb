@@ -2,14 +2,17 @@
 Diferentes dispociones de teclado dvorak para diferentes plataformas
 
 ## dvorakes-variante 
-Modificaci髇: 4/5/2016 1:04
+Modificaci贸n: 4/5/2016 1:04
 
 ## dvorak-international
-Modificaci髇: 4/5/2016 1:07
+Modificaci贸n: 4/5/2016 1:07
 
 ## usdint2
-Creaci髇: 23/5/2016 6:34
+Creaci贸n: 23/5/2016 6:34
 
 ## usdvint2
-Creaci髇: 23/5/2016 7:07
-Modificaci髇: 23/5/2016 7:23
+Creaci贸n: 23/5/2016 7:07
+Modificaci贸n: 23/5/2016 7:23
+
+## Linux
+/usr/share/X11/xkb/symbols
